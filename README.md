@@ -1,29 +1,13 @@
-Business Problem
+# Business Problem Statement
 
-The company launched a new onboarding campaign and wants to determine whether it should be rolled out to all users.
+The company recently introduced a new onboarding and activation campaign designed to improve user conversion and early-stage engagement. To evaluate its effectiveness, users were randomly assigned to either a Control group, which experienced the existing onboarding process, or a Treatment group, which experienced the new campaign.
 
-The decision impacts product, marketing, revenue, and customer success teams.
+The primary business decision is to determine whether the new onboarding experience should be rolled out to the entire user base. This decision is important because onboarding plays a critical role in influencing user activation, subscription conversion, customer engagement, and long-term revenue generation.
 
-The primary goal is to improve Paid Conversion Rate while ensuring that user experience and revenue quality are not negatively affected.
+The outcome of this decision impacts multiple stakeholders, including the Product, Growth, Marketing, Customer Success, and Leadership teams. A successful rollout could improve customer acquisition efficiency and business performance, while an ineffective rollout could negatively affect user experience and operational costs.
 
-Risks include increased refunds, support tickets, and lower engagement quality.
+The primary metric expected to improve is the Paid Conversion Rate, as it directly reflects the campaign’s ability to convert users into paying customers and contribute to business growth.
 
-Evidence required includes experiment results, statistical testing, guardrail metric analysis, and segment-level performance comparisons.
+However, conversion improvement alone is not sufficient to justify a full launch. The company must also monitor potential risks through guardrail metrics such as refund rate, support ticket rate, engagement quality, and time required to convert.
 
-
-North Star Metric:-
-
-North Star Metric: Paid Conversion Rate
-
-Reason:
-Paid Conversion Rate directly measures how effectively users move from onboarding to becoming paying customers.
-
-Supporting Metrics:
-- Landing Page Visit Rate
-- Trial Start Rate
-- Onboarding Completion Rate
-- Revenue Per User
-- Engagement Score
-
-Risk:
-If conversion is optimized blindly, refunds and support tickets may increase.
+Before making a final recommendation, sufficient evidence must be collected through experiment analysis. This includes KPI comparisons between the Control and Treatment groups, statistical hypothesis testing, guardrail metric evaluation, and segment-level analysis to determine whether the observed improvements are meaningful, sustainable, and aligned with overall business objectives.
